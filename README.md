@@ -1,7 +1,7 @@
 # 💫 About Me:
 Egresado de la Carrera de Ingenieria Estadística con experiencia en Gestión de Riesgos y Ciencia de datos.
 
-📊 Data Scientist ➔ 🔧 Data Engineer | ML & AI & CLOUD<br>
+📊 Data Scientist ➔ 🔧 ML Engineer | ML & AI & CLOUD<br>
 
 
 ## 🌐 Socials:
