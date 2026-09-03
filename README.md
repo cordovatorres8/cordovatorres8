@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ingeniero Estadístico con experiencia 4+ años en Gestión de Riesgos y Ciencia de datos.
+Data Scientist y Bachiller en Ingeniería Estadística con +4 años de experiencia transformando datos en valor para el negocio. Mi trayectoria abarca desde Business Intelligence hasta la Gestión de Riesgos Crediticios. Actualmente lidero la calibración de modelos y estoy implementando activamente metodologías IFRS 9 y arquitecturas de datos en AWS. Me especializo en el ciclo de vida de modelos (PD, LGD, CCF), automatización en Python/SQL y aplicación de GenAI para optimizar provisiones y escalar soluciones de riesgo financiero.
 
 📊 Data Scientist ➔ 🔧 ML Engineer | ML & AI & CLOUD<br>
 
