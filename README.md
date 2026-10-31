@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Scientist y Bachiller en Ingeniería Estadística con +4 años de experiencia construyendo soluciones analíticas escalables. Cuento con una sólida trayectoria en automatización de pipelines, Business Intelligence y Gestión de Riesgos Crediticios. Actualmente lidero la calibración de modelos y estoy implementando activamente metodologías IFRS 9 y arquitecturas de datos en AWS. Me especializo en el ciclo de vida de modelos (PD, LGD, CCF), programación en Python/SQL y aplicación de GenAI para optimizar provisiones y productivizar soluciones de riesgo financiero.
+Data Scientist y Bachiller en Ingeniería Estadística con +2 años de experiencia construyendo soluciones analíticas escalables. Cuento con una sólida trayectoria en automatización de pipelines, Business Intelligence y Gestión de Riesgos Crediticios. Actualmente lidero la calibración de modelos y estoy implementando activamente metodologías IFRS 9 y arquitecturas de datos en AWS. Me especializo en el ciclo de vida de modelos (PD, LGD, CCF), programación en Python/SQL y aplicación de GenAI para optimizar provisiones y productivizar soluciones de riesgo financiero.
 
 📊 Data Scientist ➔ 🔧 ML Engineer | ML & AI & CLOUD<br>
 
